@@ -1,7 +1,9 @@
 # Demo 
 [nextjs-prismaorm-crud.vercel.app](https://nextjs-prismaorm-crud.vercel.app/)
 
-โปรแกรม CRUD ทดสอบการพัฒนาระบบโดยการใช้งาน Nextjs ร่วมกับ Prisma Postgres
+โปรแกรม CRUD เบื่องต้น เป็นการทดสอบการพัฒนาระบบโดยการใช้ Framework Nextjs ร่วมกับ Prisma และ Postgres
+
+
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
