@@ -1,4 +1,4 @@
-const { prisma } = require('./lib/prisma');
+import { prisma } from './lib/prisma';
 
 try {
     // Access a property to ensure the client is initialized
